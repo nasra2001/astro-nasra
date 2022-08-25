@@ -1,4 +1,14 @@
 ---
 label: Index
 hide_body: true
-fields: []
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: titre
+- name: images
+  type: text
+  config:
+    required: false
+  label: images
