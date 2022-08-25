@@ -1,4 +1,14 @@
 ---
 label: field
 hide_body: true
-fields: []
+fields:
+- name: titre
+  type: text
+  config:
+    required: false
+  label: titre
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
