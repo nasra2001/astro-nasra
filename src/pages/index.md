@@ -8,7 +8,7 @@ email: ahmednasra1212@gmail.com
 telephone: "+253 77397703"
 skills:
 - nom: Adobe Photoshop
-  pourcentage: 87
+  pourcentage: 90
 
 ---
 # hello !
