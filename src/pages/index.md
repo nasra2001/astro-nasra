@@ -6,6 +6,9 @@ fonction: Experte en finance
 adresse: Quartier 7, Djibouti
 email: ahmednasra1212@gmail.com
 telephone: "+253 77397703"
+skills:
+- nom: Adobe Photoshop
+  pourcentage: 87
 
 ---
 # hello !
